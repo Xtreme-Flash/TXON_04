@@ -93,6 +93,7 @@ a:hover {
 
 .pfp-img {
     width: 10%;
+    border-radius: 25%;
 }
 
 .cpp-img {
